@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 number = 12
-if number != 0:
-    print("Not 0\n")
+if not number:
+    pass
+else:
+    print("Not 0")
