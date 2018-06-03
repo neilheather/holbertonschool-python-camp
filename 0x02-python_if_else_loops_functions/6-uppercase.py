@@ -2,3 +2,4 @@
 
 def uppercase(str):
     print(str.upper())
+    return
