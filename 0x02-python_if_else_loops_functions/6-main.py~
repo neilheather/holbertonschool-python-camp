@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+def uppercase(str):
+    print("{}".format(str.upper()))
+
+uppercase("holberton")
+uppercase("Holberton School 98 Battery street")
