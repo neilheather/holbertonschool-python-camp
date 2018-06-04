@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-num = 0
-while (num < 99):
+for num in range (0,99):
     print("%02d, " % num, end="")
-    num = num + 1
-print("%02d" % num)
+print("%02d" % 99)
